@@ -4,5 +4,6 @@ IMAGE_INSTALL += "\
     mmsens-app \
     i2csens-app \
     i2c-tools \
+    qt6-sens-app \
 "
 
